@@ -34,6 +34,7 @@ making technical topics understandable for everyday people)
 
 - **Advanced Cybersecurity** — University of Ottawa, Professional Development Institute, Apr–Sep 2025
 - **Open-Source Intelligence** — Basel Institute on Governance, Nov 2025
+- **Competency in IT Software and Systems Support** - CompTIA, Oct 2026
 
 ---
 
