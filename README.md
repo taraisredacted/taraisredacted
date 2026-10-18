@@ -2,13 +2,13 @@
 
 ---
 
-## Selected Work
+## Selected Work (Paid and non-paid)
 
 -  **Digital footprint audits (2025–present)**: defensive footprint audits to help targeted people understand what people can find
 - **OSINT practice (2022–present)**: collaborative investigations, research
   and documentation in support of activists and aligned community organizations
-- **Digital safety guides (2022–present)**: anti-doxxing resources,
-  identity-protection guides for women and free digital safety materials written for marginalized communities
+- **Digital safety guides, consulting, workshops (2022–present)**: anti-doxxing resources,
+  identity-protection guides for women and free digital safety materials/educational sessions for marginalized communities
 - **Social media management (2021)**: *The Walrus* magazine, ~1-year
   maternity leave cover
 - **Digital marketing & tech education (~2010–2021)**: instructor for small business owners and
