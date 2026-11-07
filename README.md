@@ -25,7 +25,7 @@
 ## Currently
 
 - I'm building my technical foundation in security and infrastructure.
-- Writing and publishing guides as I go, because teaching is how I learn best. (I also highly enjoy the unglamorous work of
+- Writing and publishing guides as I go, because teaching and sharing is how I learn best. (I also highly enjoy the unglamorous work of
 making technical topics understandable for everyday people)
 - I regularly blog anti-Zionist research
 
