@@ -14,8 +14,7 @@
 - **Digital marketing & tech education (~2010–2021)**: instructor for small business owners and
   community organizations; directed digital marketing, social media, and
   sales for a tech training company; delivered workshop sessions for Ontario
-  Highlands Tourism, several Business Improvement Areas (BIAs), and Digital Main Street project in Toronto
-  
+  Highlands Tourism, several Business Improvement Areas (BIAs), and Digital Main Street project in Toronto. 
   Topics: Digital Marketing on a Shoestring Budget, SEO, Social Media, Basic Websites, Social Media for Small Business
 - **Speaker**: Former speaking events (pre-2022) include Podcamp Toronto, Youth Employment Services (YES), RBC Royal Bank of Canada
 - **Maker community newsletter (2016–2019)**: curated a Toronto-based newsletter to help develop maker communities around the world
