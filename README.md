@@ -42,3 +42,8 @@ making technical topics understandable for everyday people)
 ## Selected repos
 
 - Coming soon
+
+
+<p align="center">
+  <img src="https://github.com/taraisredacted/Networking-Fundamentals-Guides/blob/main/GIFs/dontemailmeaboutit.gif?raw=true" width="200" />
+</p>
