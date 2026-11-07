@@ -39,8 +39,6 @@ making technical topics understandable for everyday people)
 
 ---
 
-## Selected repos
-
-- Coming soon
-
-
+<p align="center">
+  <img src="https://github.com/taraisredacted/Networking-Fundamentals-Guides/blob/main/GIFs/computeronvirus.gif?raw=true" />
+</p>
