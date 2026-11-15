@@ -9,6 +9,7 @@
   and documentation in support of activists and aligned community organizations
 - **Digital safety guides, consulting, workshops (2022–present)**: anti-doxxing resources,
   identity-protection guides for women and free digital safety materials/educational sessions for marginalized communities
+  *Past public community workshops on Bill C-22/anti-surveillance can be found here: https://events.humanitix.com/host/tara-wilkins
 - **Social media management (2021)**: *The Walrus* magazine, ~1-year
   maternity leave cover
 - **Digital marketing & tech education (~2010–2021)**: instructor for small business owners and
