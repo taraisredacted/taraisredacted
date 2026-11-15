@@ -17,7 +17,7 @@
   sales for a tech training company; delivered workshop sessions for Ontario
   Highlands Tourism, several Business Improvement Areas (BIAs), and Digital Main Street project in Toronto. 
   Topics: Digital Marketing on a Shoestring Budget, SEO, Social Media, Basic Websites, Social Media for Small Business
-- **Speaker**: Former speaking events (pre-2022) include Podcamp Toronto, Youth Employment Services (YES), RBC Royal Bank of Canada
+- **Speaker**: Former speaking events (pre-2022) include Podcamp Toronto, Youth Employment Services (YES), RBC Royal Bank of Canada, Redwood Women's Shelter
 - **Maker community newsletter (2016–2019)**: curated a Toronto-based newsletter to help develop maker communities around the world
 
 
